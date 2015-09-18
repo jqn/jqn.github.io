@@ -1,0 +1,14 @@
+/* line 1, ../sass/overrides/components/_navbar.scss */
+.navbar-inverse {
+  background-color: #FF8F32;
+}
+
+/* line 5, ../sass/overrides/components/_navbar.scss */
+.navbar-inverse .navbar-brand {
+  color: #FFF;
+}
+
+/* line 8, ../sass/overrides/components/_navbar.scss */
+.navbar-inverse .navbar-brand:hover {
+  color: #80481A;
+}
