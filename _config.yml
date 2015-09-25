@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: My Awesome Tech Blog - jQN
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: joaquin_guardado@icloud.com
+description: "Tech talk about awesome Node.js, the MEAN stack, Drupal and the LAMP stack."
 baseurl: " "
 url: ""
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+# twitter_username: SBootstrap
+github_username:  jqn
+# facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
