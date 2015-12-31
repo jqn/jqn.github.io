@@ -2,7 +2,7 @@
 layout:     post
 title:      "Beginn­ers gu­ide to­ Drupa­l Deve­lopmen­t Guide"
 subtitle:   "Mac OS X - Edition"
-date:       2015-09-24 12:00:00
+date:       2015-12-30 12:00:00
 author:     "jQN"
 header-img: "img/header-img.jpg"
 ---
