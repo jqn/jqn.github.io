@@ -5,15 +5,13 @@
     <description>Tech talk about awesome Node.js, the MEAN stack, Drupal and the LAMP stack.</description>
     <link> /</link>
     <atom:link href=" /feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 30 Dec 2015 23:57:09 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Dec 2015 23:57:09 -0700</lastBuildDate>
+    <pubDate>Thu, 31 Dec 2015 00:15:11 -0700</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 00:15:11 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Beginn­ers gu­ide to­ Drupa­l Deve­lopmen­t</title>
-        <description>&lt;p&gt;For now checkout my GitBook pre-release at &lt;a href=&quot;https://www.gitbook.com/book/jqn/beginners-guide-to-drupal-development/details&quot;&gt;gitbook.com/@jqn&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I&#39;ll be adding a blog post soon&lt;/p&gt;
+        <title>Beginn­ers gu­ide to­ Drupa­l Deve­lopmen­t Guide</title>
+        <description>&lt;p&gt;Pre-release available in GitBook at &lt;a href=&quot;https://www.gitbook.com/book/jqn/beginners-guide-to-drupal-development/details&quot;&gt;gitbook.com/@jqn&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- &lt;a href=&quot;#&quot;&gt;
     &lt;img src=&quot; /img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot;&gt;

@@ -1,15 +1,13 @@
 ---
 layout:     post
-title:      "Beginn­ers gu­ide to­ Drupa­l Deve­lopmen­t"
+title:      "Beginn­ers gu­ide to­ Drupa­l Deve­lopmen­t Guide"
 subtitle:   "Mac OS X - Edition"
 date:       2015-09-24 12:00:00
 author:     "jQN"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/header-img.jpg"
 ---
 
-<p>For now checkout my GitBook pre-release at <a href="https://www.gitbook.com/book/jqn/beginners-guide-to-drupal-development/details">gitbook.com/@jqn</a></p>
-
-<p>I'll be adding a blog post soon</p>
+<p>Pre-release available in GitBook at <a href="https://www.gitbook.com/book/jqn/beginners-guide-to-drupal-development/details">gitbook.com/@jqn</a></p>
 
 
 <!-- <a href="#">
